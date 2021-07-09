@@ -5,9 +5,9 @@ name: CollectionTesting
 
 on:
   push:
-    branches: [ master ]
+    branches: [ mait ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
